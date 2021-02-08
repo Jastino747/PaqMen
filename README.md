@@ -1,5 +1,5 @@
 # PaqMen
-If you know what "Pac Man" is, then you know this game. Collect all the pellets, do not let the ghost catch you, use the power up, and there you go :)
+If you know what "Pac Man" is, then you know this game. Collect all the pellets, do not let the ghost catch you, use the power up, and there you go.
 I made this imitation just to learn how is it possible to remake the "Pac Man" using existing feature of .NET Framework.
 
 The maps and the sprites were custom made, but based on the original resource from the real "Pac Man" game.
